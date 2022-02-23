@@ -37,7 +37,7 @@ if x > y:
     y = temp
 '''
 if x > y:
-    x, y = y, x
+    x, y = y, x # 튜플 x, y = (y, x) 우항의 괄호가 생략됨.
 
 total = 0
 n = x # x가 무조건 작을 것이기 때문에 n이 begin이 될 것이다.
