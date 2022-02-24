@@ -11,8 +11,7 @@ points = [88, 99, 56, 92, 100, 78]
 points.remove(92)
 print(points)
 
-del(points[2])
-# del points[2] 괄호를 생략해도 됨
+del(points[2]) # del points[2] 괄호를 생략해도 됨
 print(points)
 
 points.clear()

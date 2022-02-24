@@ -23,8 +23,8 @@ print(f'최저 점수는 {min(points)}점 입니다.')
 print('-' * 40)
 print(points)
 # points.sort()
-points.sort(reverse=True) # 리스트 내림차순
 # points.reverse() # 기존 리스트를 역순으로 배치하는 메서드
+points.sort(reverse=True) # 리스트 내림차순
 
 print(points)
 

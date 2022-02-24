@@ -15,6 +15,9 @@
  함수를 먼저 정의해야 한다.
 '''
 # 함수의 정의 (1~x까지의 누적합을 구하는 로직)
+from unittest import result
+
+
 def calc_sum(end):
     sum = 0
     for n in range(1, end + 1): # step은 생략했음

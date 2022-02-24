@@ -37,7 +37,7 @@ for k in eng_kor:
 
 '''
 * 사전의 데이터를 삭제 (내장함수 del을 사용)
-del(사전이름[k])
+del(사전이름[key])
 key를 입력하면 같이 맵핑된 value도 함께 삭제된다.
 '''
 del(eng_kor['student'])
