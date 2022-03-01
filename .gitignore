@@ -1,3 +1,22 @@
 chromedriver.exe
 Day04/test.html
 crawling/알라딘 베스트셀러 1~50위_2022_2_25.txt
+crawling/교보문고 베스트셀러_2022_2_28.html
+crawling/교보문고 베스트셀러_2022_3_1.html
+crawling/알라딘 베스트셀러 1~400위(뉴 버전)_2022_2_28.xlsx
+Day05/dist/img_collector.exe
+Day05/build/img_collector/xref-img_collector.html
+Day05/build/img_collector/warn-img_collector.txt
+Day05/build/img_collector/Tree-02.toc
+Day05/build/img_collector/Tree-01.toc
+Day05/build/img_collector/Tree-00.toc
+Day05/build/img_collector/PYZ-00.toc
+Day05/build/img_collector/PYZ-00.pyz
+Day05/build/img_collector/PKG-00.toc
+Day05/build/img_collector/img_collector.pkg
+Day05/build/img_collector/img_collector.exe.manifest
+Day05/build/img_collector/EXE-00.toc
+Day05/build/img_collector/base_library.zip
+Day05/build/img_collector/Analysis-00.toc
+Day05/__pycache__/img_collector.cpython-38.pyc
+Day05/img_collector.spec
